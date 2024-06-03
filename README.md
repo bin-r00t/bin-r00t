@@ -5,7 +5,7 @@
 
 ### 🏗️ Stacks:
 
-<span><img src="https://img.shields.io/badge/JavaScript-1?style=for-the-badge&logo=javascript&color=%23fff"/></span>
+<span><img src="https://img.shields.io/badge/JavaScript-1?style=for-the-badge&logo=javascript&logoColor=red&color=%23fff"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-2?style=for-the-badge&logo=typescript&logoColor=white&color=blue"/></span>
 <span><img src="https://img.shields.io/badge/react-3?style=for-the-badge&logo=react&logoColor=%23087EA4&color=%23eee"/></span>
 <span><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></span>
